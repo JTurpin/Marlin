@@ -1,4 +1,4 @@
-Jim's Config
+Jim's Config 2
 
 WARNING: 
 --------
