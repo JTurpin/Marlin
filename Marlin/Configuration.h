@@ -214,7 +214,7 @@ const bool Z_ENDSTOPS_INVERTING = false; // set to true to invert the logic of t
 
 // default settings 
 
-#define DEFAULT_AXIS_STEPS_PER_UNIT   {79.453,40.251,2597.734,838.333}  // default steps per unit for wades 
+#define DEFAULT_AXIS_STEPS_PER_UNIT   {81.910,40.864,2597.734,838.333}  // default steps per unit for wades 
 #define DEFAULT_MAX_FEEDRATE          {500, 500, 5, 45}    // (mm/sec)    
 #define DEFAULT_MAX_ACCELERATION      {9000,9000,100,10000}    // X, Y, Z, E maximum start speed for accelerated moves. E default values are good for skeinforge 40+, for older versions raise them a lot.
 
